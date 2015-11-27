@@ -24,7 +24,7 @@ exit;
     <div id="header">
       <div id="logo">
         <div id="logo_text">
-          <h1><a href="index.html"><img src="img/logo.svg" height="35" width="35" /> Security Knowledge Framework</a></h1>
+          <h1><a href="index.php"><img src="img/logo.svg" height="35" width="35" /> Security Knowledge Framework</a></h1>
         </div>
       </div>
       <div id="menubar">
