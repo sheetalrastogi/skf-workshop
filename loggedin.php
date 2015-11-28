@@ -28,6 +28,8 @@ $text = $info['text'];
 <div id="content">
 	<h1>You have been authenticated</h1>
     <h4>Update your page information!</h4>
+    Upload an image for your avatar!<br>
+    <a href="upload.php">Upload Avatar</a>
     <br/>	
     <?php echo $text; ?>	
     <br/><br/><br/><br/>
